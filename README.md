@@ -95,3 +95,9 @@ Now you can be in a folder, **Shift + right-click** in the right pane of File 
 ## Revert Your Changes
 
 To revert your changes, follow the same instructions listed here, but rename the **ShowBasedOnVelocityId** or **HideBasedOnVelocityId** value to the other, depending on whether you’re showing or hiding the context menu option.
+
+
+
+## Reference
+
+[How-To Add Command Prompt Option to Explorer Context Menu](https://www.groovypost.com/howto/microsoft/vista/add-command-prompt-option-to-explorer-context-menu/)
